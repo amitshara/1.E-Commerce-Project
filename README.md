@@ -4,7 +4,12 @@
 
 This project analyzes an e-commerce dataset to uncover key business insights related to sales trends, customer behavior, product performance, and geographic distribution.
 ---
-1. Problem Statement
+
+Dataset Link :- https://www.kaggle.com/datasets/carrie1/ecommerce-data
+
+---
+
+##. Problem Statement
 
 The goal of this analysis is to:
 * Understand sales trends over time (monthly, weekly, hourly)
@@ -78,5 +83,5 @@ The goal of this analysis is to:
 This analysis highlights how data-driven insights can help businesses optimize operations, reduce risks, and improve decision-making.
 
 
-[Add your project link here]
+
 

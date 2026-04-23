@@ -7,10 +7,10 @@ This project analyzes an e-commerce dataset to uncover key business insights rel
 1. Problem Statement
 
 The goal of this analysis is to:
-Understand sales trends over time (monthly, weekly, hourly)
-Identify top customers and products
-Analyze country-wise contribution to revenue
-Detect patterns to improve sales performance and decision-making
+* Understand sales trends over time (monthly, weekly, hourly)
+* Identify top customers and products
+* Analyze country-wise contribution to revenue
+* Detect patterns to improve sales performance and decision-making
 
 ---
 

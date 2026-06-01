@@ -1,6 +1,6 @@
 
 -- Solving EDA Questions using PostgreSQL
-
+ 
 1. Total Sales
 2. REVENUE BY COUNTRY
 3. TOP 10 BEST-SELLING PRODUCTS (by units sold)

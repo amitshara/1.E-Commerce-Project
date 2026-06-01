@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 
 import pandas as pd
-
+  
 #loading dataset from excel file
 df1 = pd.read_excel('/content/online_retail_II.xlsx',sheet_name=None)
 
